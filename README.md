@@ -1,5 +1,5 @@
 # 2d-food-dish-game
-This is a 2D game made in Unity in which we can drag and drop the veggies and make a Food Dish. 
+This is a 2D game made in Unity in which we can drag and drop the veggies and make a Food Dish. I try to make it in 5 hours.
 
 - I use **Singleton pattern**
 - **IDragHandler** Interface to drag vegitable.
